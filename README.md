@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zun Chen 👋</h1>
+<h1 align="center">Hi, I'm Zun Chen 😊</h1>
 
 <!-- 打字机动画：Share Tech Mono -->
 <p align="center">
@@ -18,7 +18,6 @@
 - 🎓 在读 **Software Engineering**（USYD / 4th Year）
 - 🔭 现在在做：macOS 应用、课程项目
 - 🌱 正在学习：LLM Agent、IoT Systems
-- 📫 联系我：zun_chen@icloud.com / linkedin.com/in/zun-chen-7632a8291
 
 ## Tech Stack
 
