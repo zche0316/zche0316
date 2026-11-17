@@ -19,8 +19,7 @@
 - 🎓 在读 **Software Engineering**（USYD / 4th Year）
 - 🔭 现在在做：macOS 应用、课程项目
 - 🌱 正在学习：LLM Agent、IoT Systems
-- 🎯 爱好：
-- 📫 联系我：zun_chen@icloud.com, linkedin.com/in/zun-chen-7632a8291
+- 📫 联系我：zun_chen@icloud.com / linkedin.com/in/zun-chen-7632a8291
 
 ## 🛠️ Tech Stack
 
