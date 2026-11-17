@@ -16,11 +16,11 @@
 
 ## 🙋 About Me
 
-- 🎓 在读 **Software Engineering**（TODO：学校 / 年级）
-- 🔭 现在在做：**RemoteAgent**（macOS 应用）、课程项目 **CareerFlow** / **BudgetMate**
-- 🌱 正在学习：TODO（例如 SwiftUI、LLM Agent、云原生）
-- 🎯 爱好：TODO（例如 摄影 / 健身 / 游戏）
-- 📫 联系我：TODO（邮箱 / LinkedIn 链接）
+- 🎓 在读 **Software Engineering**（USYD / 4th Year）
+- 🔭 现在在做：macOS 应用、课程项目
+- 🌱 正在学习：LLM Agent、IoT Systems
+- 🎯 爱好：
+- 📫 联系我：zun_chen@icloud.com, linkedin.com/in/zun-chen-7632a8291
 
 ## 🛠️ Tech Stack
 
