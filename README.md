@@ -14,21 +14,21 @@
   <img src="https://komarev.com/ghpvc/?username=zche0316&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 🙋 About Me
+## About Me
 
 - 🎓 在读 **Software Engineering**（USYD / 4th Year）
 - 🔭 现在在做：macOS 应用、课程项目
 - 🌱 正在学习：LLM Agent、IoT Systems
 - 📫 联系我：zun_chen@icloud.com / linkedin.com/in/zun-chen-7632a8291
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <!-- 图标列表可按需增删：https://skillicons.dev -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,ts,react,nextjs,java,spring,python,postgres,docker,aws,git,linux&perline=12" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zche0316&theme=tokyonight&hide_border=true" />
